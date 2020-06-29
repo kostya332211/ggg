@@ -1,0 +1,9 @@
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\bin\Release\DBPhonesBook.dacpac
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\bin\Release\DBPhonesBook.dll
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\bin\Release\DBPhonesBook.pdb
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Release\DBPhonesBook.dll
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Release\DBPhonesBook.pdb
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Release\Model.xml
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Release\refactor.xml
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Release\postdeploy.sql
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Release\predeploy.sql

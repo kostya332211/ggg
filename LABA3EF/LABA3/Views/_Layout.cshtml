@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <script>
+        function NewPhone(form)
+        {
+            if (form.changeNumber.checked)
+            {
+                form.phoneNew.disabled = 0;
+            }
+            else
+            {
+                f.phoneNew.disabled = 1;
+            }
+        }
+    </script>
+</head>
+ 
+<body>
+<nav>
+    <h1>@Html.ActionLink("Главная", "Index", "Dict")</h1>
+</nav>
+@RenderBody()
+<h2>Footer</h2>
+</body>
+</html>

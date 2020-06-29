@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Delete Phone";
+}
+<div>
+    @using (Html.BeginForm("DeleteSave", "Dict", FormMethod.Post))
+    {
+        <input type="text" name="phone" placeholder="Номер телефона" maxlength="50"/>
+        <input type="submit" value="Удалить"/>
+    }
+</div>

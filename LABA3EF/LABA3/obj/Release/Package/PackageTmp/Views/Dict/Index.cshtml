@@ -1,0 +1,39 @@
+﻿@using LABA3.Models
+
+@{
+    Layout = null;
+    SortedDictionary<string,string> phones = ViewBag.getAll;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <table border="2" width="50%">
+            <tr>
+                <th>Имя</th>
+                <th>Телефон</th>
+            </tr>
+
+            @foreach (var phone in phones)
+            {
+                <tr>
+                    <th>@phone.Key</th>
+                    <th>@phone.Value</th>
+                </tr>
+            }
+        </table>
+        <h2><a href="~/Dict/Add">Add</a></h2>
+        <h2><a href="~/Dict/Update">Update</a></h2>
+        <h2><a href="~/Dict/Delete">Delete</a></h2>
+        <h2><a href="~/Dict/Commit">Commit</a></h2>
+        <h2><a href="~/Dict/ReadJson">Load Data</a></h2>
+    </div>
+</body>
+</html>

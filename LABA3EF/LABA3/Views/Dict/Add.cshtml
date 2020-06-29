@@ -1,0 +1,11 @@
+﻿@model LABA3.Models.PersonValidationModel
+@{
+    ViewBag.Title = "Add Phone";
+}
+    <div>
+        @using (Html.BeginForm("AddSave", "Dict", FormMethod.Post))
+        {
+            @Html.EditorForModel()
+            <input type="submit" value="Добавить" />
+        }
+    </div>

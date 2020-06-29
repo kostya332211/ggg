@@ -1,0 +1,16 @@
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\bin\Debug\DBPhonesBook.dacpac
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\bin\Debug\DBPhonesBook.dll
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\bin\Debug\DBPhonesBook.pdb
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Debug\DBPhonesBook.sqlprojAssemblyReference.cache
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Debug\DBPhonesBook.dll
+D:\LABS\PIS_SMELOV\LABA3EF\DBPhonesBook\obj\Debug\DBPhonesBook.pdb
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\bin\Debug\DBPhonesBook.dacpac
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\bin\Debug\DBPhonesBook.dll
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\bin\Debug\DBPhonesBook.pdb
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\DBPhonesBook.sqlprojAssemblyReference.cache
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\DBPhonesBook.dll
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\DBPhonesBook.pdb
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\Model.xml
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\refactor.xml
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\postdeploy.sql
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\DBPhonesBook\obj\Debug\predeploy.sql

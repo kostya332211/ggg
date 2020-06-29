@@ -1,0 +1,19 @@
+﻿
+@{
+    Layout = null;
+    var req = this.Request;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PageNotFound</title>
+</head>
+<body>
+    <div>
+        <h1>@req.HttpMethod : <b style="color: red">@req.Params["aspxerrorpath"]</b>  не поддерживается!</h1>
+    </div>
+</body>
+</html>

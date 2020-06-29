@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Update phone";
+}
+<div>
+    <form id="add" method="post" action="~/Dict/UpdateSave">
+        <input type="text" id="phone" name="phone" placeholder="Телефон" maxlength="50" />
+        <input type="text" id="name" name="name" placeholder="Имя" maxlength="100" />
+        <input type="checkbox" value="Изменить номер телефона" name="changeNumber" onclick="NewPhone(this.form)" />
+        <input type="text" name="phoneNew" placeholder="Новый номер" maxlength="50" disabled />
+        <input type="submit" value="Изменить" />
+    </form>
+</div>

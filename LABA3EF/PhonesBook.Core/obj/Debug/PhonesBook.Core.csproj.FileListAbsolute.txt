@@ -1,0 +1,6 @@
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\PhonesBook.Core\bin\Debug\PhonesBook.Core.dll
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\PhonesBook.Core\bin\Debug\PhonesBook.Core.pdb
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\PhonesBook.Core\obj\Debug\PhonesBook.Core.csprojAssemblyReference.cache
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\PhonesBook.Core\obj\Debug\PhonesBook.Core.csproj.CoreCompileInputs.cache
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\PhonesBook.Core\obj\Debug\PhonesBook.Core.dll
+D:\LABS\PIS_SMELOV\LAB6\LABA3EF\PhonesBook.Core\obj\Debug\PhonesBook.Core.pdb
